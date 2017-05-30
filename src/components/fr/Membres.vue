@@ -122,7 +122,7 @@
             li
               | 
               a(href='http://www.dfo-mpo.gc.ca/') http://www.dfo-mpo.gc.ca/
-              strong Ressources naturelles Canada
+          strong Ressources naturelles Canada
           ul
             li
               | 
